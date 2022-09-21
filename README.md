@@ -18,11 +18,15 @@ You can find the `paper`, the `slides` presented at ECML PKDD, and the `poster` 
 
 ## Code
 
-[COMING SOON] In the `src/` folder, you will find a minimal implementation of:
+[TO BE UPDATED] In the `src/` folder, you will find a minimal implementation of:
 
 1. The `ALBA` active learning algorithm (our main contribution).
 2. The _baselines_ compared in the paper.
 3. Instructions on how to use the algorithms and an illustration on toy data.
+
+## Images
+
+In the `images/` folder, you will find _pdf_ files for some of the main images showed in the paper.
 
 ## Data - disclaimer
 
