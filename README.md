@@ -1,4 +1,4 @@
-# ALBA: Active learning bandits
+# ALBA: Active Learning Bandits
 
 This repository contains the _code_ and _resources_ accompanying the paper:
 
@@ -18,13 +18,15 @@ You can find the `paper`, the `slides` presented at ECML PKDD, and the `poster` 
 
 ## Code
 
-In the `src/` folder, you will find a minimal implementation of:
+[COMING SOON] In the `src/` folder, you will find a minimal implementation of:
 
 1. The `ALBA` active learning algorithm (our main contribution).
 2. The _baselines_ compared in the paper.
 3. Instructions on how to use the algorithms and an illustration on toy data.
 
 ## Data - disclaimer
+
+The datasets used in the experiments of the paper are proprietary and can unfortunately not be shared at the moment.
 
 ## Contact and support
 
