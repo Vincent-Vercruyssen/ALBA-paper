@@ -1,6 +1,6 @@
 # ALBA: Active Learning Bandits
 
-This repository contains the _code_ and _resources_ accompanying the paper:
+This repository contains the _code_ and _resources_ accompanying the **Multi-domain Active Learning for Semi-supervised Anomaly Detection** research paper, accepted for publication at the [ECML PKDD 2022](https://2022.ecmlpkdd.org/) conference in Grenoble.
 
 ```bibtex
 @inproceedings{vercruyssen2022multi,
